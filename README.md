@@ -25,12 +25,6 @@ El objetivo principal de este proyecto es realizar pruebas automatizadas en el s
 - `element.py`: Módulo que define la clase BasePageElement para interactuar con elementos de la página.
 - `locator.py`: Módulo que define los localizadores de elementos en el sitio web.
 
-## Contribuciones
 
-¡Las contribuciones son bienvenidas! Si encuentras errores, mejoras o nuevas funcionalidades para agregar, siéntete libre de crear un problema o enviar una solicitud de extracción.
-
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
 
 
